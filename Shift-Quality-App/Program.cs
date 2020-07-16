@@ -7,6 +7,7 @@ namespace Shift_Quality_App
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Yes World!");
         }
     }
 }
