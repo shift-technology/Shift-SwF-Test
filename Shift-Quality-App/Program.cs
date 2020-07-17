@@ -6,6 +6,7 @@ namespace Shift_Quality_App
     {
         static void Main(string[] args)
         {
+            // hotfix code
             Console.WriteLine("Hello World!");
         }
     }
