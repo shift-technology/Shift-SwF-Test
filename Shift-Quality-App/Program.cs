@@ -10,6 +10,7 @@ namespace Shift_Quality_App
             Console.WriteLine("Yes World!");
 
             // feature 1 commit
+            // feature 2 commit
         }
     }
 }
