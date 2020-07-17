@@ -8,6 +8,7 @@ namespace Shift_Quality_App
         {
             // hotfix code
             Console.WriteLine("Hello World!");
+            //second commit
         }
     }
 }
