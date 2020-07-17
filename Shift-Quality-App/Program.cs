@@ -8,6 +8,10 @@ namespace Shift_Quality_App
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Yes World!");
+
+            // feature 1 commit
+            // feature 2 commit
+            // feature 3 commit
         }
     }
 }
