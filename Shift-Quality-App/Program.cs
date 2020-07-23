@@ -14,6 +14,8 @@ namespace Shift_Quality_App
             // feature 1 commit
             // feature 2 commit
             // feature 3 commit
+
+            Console.WriteLine("Development tests");
         }
     }
 }
