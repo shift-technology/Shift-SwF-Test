@@ -15,6 +15,10 @@ namespace Shift_Quality_App
             // feature 2 commit
             // feature 3 commit
             Console.WriteLine("Bye bye World!");
+
+
+            // Correct spelling
+            Console.WriteLine("First release");
         }
     }
 }
