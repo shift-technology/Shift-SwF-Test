@@ -17,7 +17,8 @@ namespace Shift_Quality_App
             Console.WriteLine("Bye bye World!");
 
 
-            Console.WriteLine("Firest release");
+            // Correct spelling
+            Console.WriteLine("First release");
         }
     }
 }
