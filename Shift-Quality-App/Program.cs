@@ -19,6 +19,7 @@ namespace Shift_Quality_App
 
             // Correct spelling
             Console.WriteLine("First release");
+            // first hotfix correction
         }
     }
 }
