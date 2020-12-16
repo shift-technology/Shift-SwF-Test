@@ -16,6 +16,8 @@ namespace Shift_Quality_App
             // feature 3 commit
             Console.WriteLine("Bye bye World!");
 
+            // test workshop
+            Console.WriteLine("Show the plugin");
 
             // Correct spelling
             Console.WriteLine("First release");
