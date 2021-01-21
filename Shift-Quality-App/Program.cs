@@ -19,6 +19,9 @@ namespace Shift_Quality_App
 
             // Correct spelling
             Console.WriteLine("First release");
+
+
+            //first support for luke
         }
     }
 }
