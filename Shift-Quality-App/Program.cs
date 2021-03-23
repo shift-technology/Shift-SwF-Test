@@ -15,7 +15,7 @@ namespace Shift_Quality_App
             // feature 2 commit
             // feature 3 commit
             Console.WriteLine("Bye bye World!");
-
+            // bug fixes for GIA
 
             // Correct spelling
             Console.WriteLine("First release");
