@@ -19,6 +19,15 @@ namespace Shift_Quality_App
 
             // Correct spelling
             Console.WriteLine("First release");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Yes World!");
+            Console.WriteLine("Let's test tags!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Yes World!");
+            Console.WriteLine("Let's test tags!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Yes World!");
+            Console.WriteLine("Let's test tags!");
         }
     }
 }
