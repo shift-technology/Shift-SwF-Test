@@ -12,6 +12,7 @@ namespace Shift_Quality_App
 
 
             // feature 1 commit
+            Console.WriteLine("Demo K-2SO!");
             // feature 2 commit
             // feature 3 commit
             Console.WriteLine("Bye bye World!");
